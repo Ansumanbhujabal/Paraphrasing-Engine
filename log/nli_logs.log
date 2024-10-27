@@ -1,0 +1,226 @@
+2024-10-27 18:25:28,498 - INFO - Original corpus length: 2 sentences
+2024-10-27 18:25:28,498 - INFO - Paraphrased corpus length: 3 sentences
+2024-10-27 18:25:28,498 - INFO - Performing NLI inference between premise: 'To set the background color in a Streamlit app to a dark blue color, you can use Streamlit's st. markdown feature with custom HTML and CSS.' and hypothesis: 'You can use Streamlit's st to set the background color.'
+2024-10-27 18:25:28,730 - INFO - NLI Label: Entailment, Probabilities: [0.01636336 0.00776413 0.9758725 ]
+2024-10-27 18:25:28,731 - INFO - Processed original: 'To set the background color in a Streamlit app to a dark blue color, you can use Streamlit's st. markdown feature with custom HTML and CSS.', paraphrased: 'You can use Streamlit's st to set the background color.'
+2024-10-27 18:25:28,732 - INFO - Resulting NLI label: Entailment, Probabilities: [0.01636336 0.00776413 0.9758725 ]
+2024-10-27 18:25:28,732 - INFO - Performing NLI inference between premise: 'Here is how you can apply the dark blue background, similar to the color you shared in the image:' and hypothesis: 'There is a feature with customHTML andCSS.'
+2024-10-27 18:25:28,893 - INFO - NLI Label: Neutral, Probabilities: [0.0073445  0.6374365  0.35521895]
+2024-10-27 18:25:28,894 - INFO - Processed original: 'Here is how you can apply the dark blue background, similar to the color you shared in the image:', paraphrased: 'There is a feature with customHTML andCSS.'
+2024-10-27 18:25:28,894 - INFO - Resulting NLI label: Neutral, Probabilities: [0.0073445  0.6374365  0.35521895]
+2024-10-27 18:25:28,895 - INFO - Average NLI label: Entailment, Average probabilities: [0.01185393 0.32260033 0.6655457 ]
+2024-10-27 18:25:30,794 - INFO - Original corpus length: 2 sentences
+2024-10-27 18:25:30,794 - INFO - Paraphrased corpus length: 3 sentences
+2024-10-27 18:25:30,794 - INFO - Performing NLI inference between premise: 'To set the background color in a Streamlit app to a dark blue color, you can use Streamlit's st. markdown feature with custom HTML and CSS.' and hypothesis: 'You can use the Streamlit st to set the background color.'
+2024-10-27 18:25:30,982 - INFO - NLI Label: Entailment, Probabilities: [0.04822612 0.01571544 0.9360585 ]
+2024-10-27 18:25:30,984 - INFO - Processed original: 'To set the background color in a Streamlit app to a dark blue color, you can use Streamlit's st. markdown feature with custom HTML and CSS.', paraphrased: 'You can use the Streamlit st to set the background color.'
+2024-10-27 18:25:30,984 - INFO - Resulting NLI label: Entailment, Probabilities: [0.04822612 0.01571544 0.9360585 ]
+2024-10-27 18:25:30,984 - INFO - Performing NLI inference between premise: 'Here is how you can apply the dark blue background, similar to the color you shared in the image:' and hypothesis: 'There is a feature with custom HTML and CSS.'
+2024-10-27 18:25:31,145 - INFO - NLI Label: Neutral, Probabilities: [0.00395949 0.73868746 0.25735307]
+2024-10-27 18:25:31,146 - INFO - Processed original: 'Here is how you can apply the dark blue background, similar to the color you shared in the image:', paraphrased: 'There is a feature with custom HTML and CSS.'
+2024-10-27 18:25:31,147 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00395949 0.73868746 0.25735307]
+2024-10-27 18:25:31,147 - INFO - Average NLI label: Entailment, Average probabilities: [0.0260928  0.37720144 0.5967058 ]
+2024-10-27 18:27:55,999 - INFO - Original corpus length: 12 sentences
+2024-10-27 18:27:56,000 - INFO - Paraphrased corpus length: 14 sentences
+2024-10-27 18:27:56,000 - INFO - Performing NLI inference between premise: 'Copyright © 2021 | Rconverge | All Rights Reserved Transaction Response Print Payment-Gatway Response : Success Successful Transaction Thank you.' and hypothesis: 'All Rights Reserved Transaction Response Print Payment- Gatway Thank you for the response.'
+2024-10-27 18:27:56,231 - INFO - NLI Label: Entailment, Probabilities: [0.00359584 0.314317   0.6820872 ]
+2024-10-27 18:27:56,233 - INFO - Processed original: 'Copyright © 2021 | Rconverge | All Rights Reserved Transaction Response Print Payment-Gatway Response : Success Successful Transaction Thank you.', paraphrased: 'All Rights Reserved Transaction Response Print Payment- Gatway Thank you for the response.'
+2024-10-27 18:27:56,233 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00359584 0.314317   0.6820872 ]
+2024-10-27 18:27:56,234 - INFO - Performing NLI inference between premise: 'Your Payment has been successfully received with the following details.' and hypothesis: 'Your payment has been received.'
+2024-10-27 18:27:56,370 - INFO - NLI Label: Entailment, Probabilities: [0.00151364 0.0061936  0.99229276]
+2024-10-27 18:27:56,371 - INFO - Processed original: 'Your Payment has been successfully received with the following details.', paraphrased: 'Your payment has been received.'
+2024-10-27 18:27:56,372 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00151364 0.0061936  0.99229276]
+2024-10-27 18:27:56,372 - INFO - Performing NLI inference between premise: 'Please quote you transaction reference number for any queries relating to this request.' and hypothesis: 'For any queries relating to this request, please quote the transaction reference number.'
+2024-10-27 18:27:56,530 - INFO - NLI Label: Entailment, Probabilities: [0.00177151 0.00436921 0.99385935]
+2024-10-27 18:27:56,531 - INFO - Processed original: 'Please quote you transaction reference number for any queries relating to this request.', paraphrased: 'For any queries relating to this request, please quote the transaction reference number.'
+2024-10-27 18:27:56,532 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00177151 0.00436921 0.99385935]
+2024-10-27 18:27:56,532 - INFO - Performing NLI inference between premise: 'Note: Payment will be credited to your Railwire Billing account within 3 working days.' and hypothesis: 'Payment will be credited to your Railwire Billing account in 3 working days.'
+2024-10-27 18:27:56,703 - INFO - NLI Label: Entailment, Probabilities: [0.00119706 0.00468774 0.99411523]
+2024-10-27 18:27:56,704 - INFO - Processed original: 'Note: Payment will be credited to your Railwire Billing account within 3 working days.', paraphrased: 'Payment will be credited to your Railwire Billing account in 3 working days.'
+2024-10-27 18:27:56,705 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00119706 0.00468774 0.99411523]
+2024-10-27 18:27:56,705 - INFO - Performing NLI inference between premise: 'Transaction Status Success Atom Transaction Reference Number to the Banker 5E47533TAT82520241018153011OD BSS Reference 5E47533TAT82520241018153011OD Transaction Date and Time 2024-10-18 15:30:59 Service Period 2024-10-18 To 2024-11-17 Recharged Amount (Rs. )' and hypothesis: 'The transaction reference number is the transaction status.'
+2024-10-27 18:27:56,977 - INFO - NLI Label: Entailment, Probabilities: [0.01462236 0.03474019 0.9506374 ]
+2024-10-27 18:27:56,978 - INFO - Processed original: 'Transaction Status Success Atom Transaction Reference Number to the Banker 5E47533TAT82520241018153011OD BSS Reference 5E47533TAT82520241018153011OD Transaction Date and Time 2024-10-18 15:30:59 Service Period 2024-10-18 To 2024-11-17 Recharged Amount (Rs. )', paraphrased: 'The transaction reference number is the transaction status.'
+2024-10-27 18:27:56,979 - INFO - Resulting NLI label: Entailment, Probabilities: [0.01462236 0.03474019 0.9506374 ]
+2024-10-27 18:27:56,979 - INFO - Performing NLI inference between premise: '699 GST 125.' and hypothesis: 'BSS reference 5E47533TAT82520241018153011OD Transaction Date and Time The service period ended on October 18th.'
+2024-10-27 18:27:57,148 - INFO - NLI Label: Neutral, Probabilities: [0.0510905  0.9274312  0.02147834]
+2024-10-27 18:27:57,150 - INFO - Processed original: '699 GST 125.', paraphrased: 'BSS reference 5E47533TAT82520241018153011OD Transaction Date and Time The service period ended on October 18th.'
+2024-10-27 18:27:57,150 - INFO - Resulting NLI label: Neutral, Probabilities: [0.0510905  0.9274312  0.02147834]
+2024-10-27 18:27:57,151 - INFO - Performing NLI inference between premise: '82 Payment Gateway Charge % 0 Grand Total 824.' and hypothesis: '699GST 125 The payment gateway charge is zero.'
+2024-10-27 18:27:57,301 - INFO - NLI Label: Contradiction, Probabilities: [0.52552134 0.13615803 0.3383206 ]
+2024-10-27 18:27:57,303 - INFO - Processed original: '82 Payment Gateway Charge % 0 Grand Total 824.', paraphrased: '699GST 125 The payment gateway charge is zero.'
+2024-10-27 18:27:57,303 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.52552134 0.13615803 0.3383206 ]
+2024-10-27 18:27:57,303 - INFO - Performing NLI inference between premise: '82     Billing Details   Railtel Corporation of India Ltd. 3rd floor,   1st Floor, Annex Building, B-Block, P. O. Chandrasekharpur,Khordha, Odisha, 751023   GSTIN :21AABCR7176C1ZP       PAN :AABCR7176C   Subscriber Address   ANSUMAN SIMANTA SEKHAR BHUJABALA   Boy's hostel 2, GANJAM GANJAM GANJAM Ganjam GANJAM Odisha 761003 Note: Please quote the Order No.' and hypothesis: 'The billing details of Railtel Corporation of India.'
+2024-10-27 18:27:57,683 - INFO - NLI Label: Entailment, Probabilities: [0.01787573 0.01620875 0.9659155 ]
+2024-10-27 18:27:57,684 - INFO - Processed original: '82     Billing Details   Railtel Corporation of India Ltd. 3rd floor,   1st Floor, Annex Building, B-Block, P. O. Chandrasekharpur,Khordha, Odisha, 751023   GSTIN :21AABCR7176C1ZP       PAN :AABCR7176C   Subscriber Address   ANSUMAN SIMANTA SEKHAR BHUJABALA   Boy's hostel 2, GANJAM GANJAM GANJAM Ganjam GANJAM Odisha 761003 Note: Please quote the Order No.', paraphrased: 'The billing details of Railtel Corporation of India.'
+2024-10-27 18:27:57,685 - INFO - Resulting NLI label: Entailment, Probabilities: [0.01787573 0.01620875 0.9659155 ]
+2024-10-27 18:27:57,685 - INFO - Performing NLI inference between premise: 'for your queries regarding the transaction.' and hypothesis: '3rd floor, 1st floor, Annex Building.'
+2024-10-27 18:27:57,819 - INFO - NLI Label: Contradiction, Probabilities: [0.49199176 0.42916766 0.07884058]
+2024-10-27 18:27:57,821 - INFO - Processed original: 'for your queries regarding the transaction.', paraphrased: '3rd floor, 1st floor, Annex Building.'
+2024-10-27 18:27:57,822 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.49199176 0.42916766 0.07884058]
+2024-10-27 18:27:57,822 - INFO - Performing NLI inference between premise: '2024-10-18 15:31:10   10/18/24, 3:31 PM Railwire Billing https://od.' and hypothesis: 'O. Chandrasekharpur,Khordha, is located in the state of Odisha.'
+2024-10-27 18:27:58,026 - INFO - NLI Label: Neutral, Probabilities: [0.168287   0.67908716 0.15262587]
+2024-10-27 18:27:58,028 - INFO - Processed original: '2024-10-18 15:31:10   10/18/24, 3:31 PM Railwire Billing https://od.', paraphrased: 'O. Chandrasekharpur,Khordha, is located in the state of Odisha.'
+2024-10-27 18:27:58,028 - INFO - Resulting NLI label: Neutral, Probabilities: [0.168287   0.67908716 0.15262587]
+2024-10-27 18:27:58,029 - INFO - Performing NLI inference between premise: 'railwire.' and hypothesis: 'A boy's hostel 2, GANJAM GANJAM GANJAM Ganjam, is located in GANJAM.'
+2024-10-27 18:27:58,269 - INFO - NLI Label: Neutral, Probabilities: [0.09855056 0.4573022  0.44414732]
+2024-10-27 18:27:58,271 - INFO - Processed original: 'railwire.', paraphrased: 'A boy's hostel 2, GANJAM GANJAM GANJAM Ganjam, is located in GANJAM.'
+2024-10-27 18:27:58,272 - INFO - Resulting NLI label: Neutral, Probabilities: [0.09855056 0.4573022  0.44414732]
+2024-10-27 18:27:58,272 - INFO - Performing NLI inference between premise: 'co. in/subscribercntl/subonlinerecharge 1/1' and hypothesis: 'Please quote the order number.'
+2024-10-27 18:27:58,451 - INFO - NLI Label: Neutral, Probabilities: [0.08109153 0.79172003 0.12718837]
+2024-10-27 18:27:58,453 - INFO - Processed original: 'co. in/subscribercntl/subonlinerecharge 1/1', paraphrased: 'Please quote the order number.'
+2024-10-27 18:27:58,453 - INFO - Resulting NLI label: Neutral, Probabilities: [0.08109153 0.79172003 0.12718837]
+2024-10-27 18:27:58,454 - INFO - Average NLI label: Entailment, Average probabilities: [0.12142574 0.31678188 0.5617924 ]
+2024-10-27 18:28:09,062 - INFO - Original corpus length: 12 sentences
+2024-10-27 18:28:09,063 - INFO - Paraphrased corpus length: 13 sentences
+2024-10-27 18:28:09,063 - INFO - Performing NLI inference between premise: 'Copyright © 2021 | Rconverge | All Rights Reserved Transaction Response Print Payment-Gatway Response : Success Successful Transaction Thank you.' and hypothesis: 'All rights reserved.'
+2024-10-27 18:28:09,224 - INFO - NLI Label: Entailment, Probabilities: [0.00514133 0.02822393 0.96663475]
+2024-10-27 18:28:09,226 - INFO - Processed original: 'Copyright © 2021 | Rconverge | All Rights Reserved Transaction Response Print Payment-Gatway Response : Success Successful Transaction Thank you.', paraphrased: 'All rights reserved.'
+2024-10-27 18:28:09,226 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00514133 0.02822393 0.96663475]
+2024-10-27 18:28:09,226 - INFO - Performing NLI inference between premise: 'Your Payment has been successfully received with the following details.' and hypothesis: 'Transaction Reply Print Payment- Gatway Thank you for the reply.'
+2024-10-27 18:28:09,380 - INFO - NLI Label: Neutral, Probabilities: [0.04312948 0.9033833  0.05348726]
+2024-10-27 18:28:09,381 - INFO - Processed original: 'Your Payment has been successfully received with the following details.', paraphrased: 'Transaction Reply Print Payment- Gatway Thank you for the reply.'
+2024-10-27 18:28:09,382 - INFO - Resulting NLI label: Neutral, Probabilities: [0.04312948 0.9033833  0.05348726]
+2024-10-27 18:28:09,382 - INFO - Performing NLI inference between premise: 'Please quote you transaction reference number for any queries relating to this request.' and hypothesis: 'Your payment has been received.'
+2024-10-27 18:28:09,518 - INFO - NLI Label: Neutral, Probabilities: [0.31305197 0.6623542  0.02459393]
+2024-10-27 18:28:09,520 - INFO - Processed original: 'Please quote you transaction reference number for any queries relating to this request.', paraphrased: 'Your payment has been received.'
+2024-10-27 18:28:09,521 - INFO - Resulting NLI label: Neutral, Probabilities: [0.31305197 0.6623542  0.02459393]
+2024-10-27 18:28:09,521 - INFO - Performing NLI inference between premise: 'Note: Payment will be credited to your Railwire Billing account within 3 working days.' and hypothesis: 'For any request relating to this request, please cite the transaction reference number.'
+2024-10-27 18:28:09,682 - INFO - NLI Label: Neutral, Probabilities: [0.00498302 0.9779198  0.01709715]
+2024-10-27 18:28:09,684 - INFO - Processed original: 'Note: Payment will be credited to your Railwire Billing account within 3 working days.', paraphrased: 'For any request relating to this request, please cite the transaction reference number.'
+2024-10-27 18:28:09,684 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00498302 0.9779198  0.01709715]
+2024-10-27 18:28:09,684 - INFO - Performing NLI inference between premise: 'Transaction Status Success Atom Transaction Reference Number to the Banker 5E47533TAT82520241018153011OD BSS Reference 5E47533TAT82520241018153011OD Transaction Date and Time 2024-10-18 15:30:59 Service Period 2024-10-18 To 2024-11-17 Recharged Amount (Rs. )' and hypothesis: 'The payment will be credited to your billing account by wire within 3 business days.'
+2024-10-27 18:28:09,949 - INFO - NLI Label: Neutral, Probabilities: [0.00123551 0.9977514  0.00101298]
+2024-10-27 18:28:09,950 - INFO - Processed original: 'Transaction Status Success Atom Transaction Reference Number to the Banker 5E47533TAT82520241018153011OD BSS Reference 5E47533TAT82520241018153011OD Transaction Date and Time 2024-10-18 15:30:59 Service Period 2024-10-18 To 2024-11-17 Recharged Amount (Rs. )', paraphrased: 'The payment will be credited to your billing account by wire within 3 business days.'
+2024-10-27 18:28:09,951 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00123551 0.9977514  0.00101298]
+2024-10-27 18:28:09,951 - INFO - Performing NLI inference between premise: '699 GST 125.' and hypothesis: 'The transaction reference number is the status of the transaction.'
+2024-10-27 18:28:10,081 - INFO - NLI Label: Neutral, Probabilities: [0.17303249 0.5952616  0.2317059 ]
+2024-10-27 18:28:10,082 - INFO - Processed original: '699 GST 125.', paraphrased: 'The transaction reference number is the status of the transaction.'
+2024-10-27 18:28:10,083 - INFO - Resulting NLI label: Neutral, Probabilities: [0.17303249 0.5952616  0.2317059 ]
+2024-10-27 18:28:10,083 - INFO - Performing NLI inference between premise: '82 Payment Gateway Charge % 0 Grand Total 824.' and hypothesis: 'Reference BSS 5E47533TAT8252024101815311OD Transaction Date and time The service period ended on October 18th.'
+2024-10-27 18:28:10,259 - INFO - NLI Label: Neutral, Probabilities: [0.06406949 0.9265136  0.00941684]
+2024-10-27 18:28:10,261 - INFO - Processed original: '82 Payment Gateway Charge % 0 Grand Total 824.', paraphrased: 'Reference BSS 5E47533TAT8252024101815311OD Transaction Date and time The service period ended on October 18th.'
+2024-10-27 18:28:10,262 - INFO - Resulting NLI label: Neutral, Probabilities: [0.06406949 0.9265136  0.00941684]
+2024-10-27 18:28:10,262 - INFO - Performing NLI inference between premise: '82     Billing Details   Railtel Corporation of India Ltd. 3rd floor,   1st Floor, Annex Building, B-Block, P. O. Chandrasekharpur,Khordha, Odisha, 751023   GSTIN :21AABCR7176C1ZP       PAN :AABCR7176C   Subscriber Address   ANSUMAN SIMANTA SEKHAR BHUJABALA   Boy's hostel 2, GANJAM GANJAM GANJAM Ganjam GANJAM Odisha 761003 Note: Please quote the Order No.' and hypothesis: '699GST 125 The payment gateway fee is zero.'
+2024-10-27 18:28:10,631 - INFO - NLI Label: Contradiction, Probabilities: [0.7513554  0.22710145 0.02154317]
+2024-10-27 18:28:10,633 - INFO - Processed original: '82     Billing Details   Railtel Corporation of India Ltd. 3rd floor,   1st Floor, Annex Building, B-Block, P. O. Chandrasekharpur,Khordha, Odisha, 751023   GSTIN :21AABCR7176C1ZP       PAN :AABCR7176C   Subscriber Address   ANSUMAN SIMANTA SEKHAR BHUJABALA   Boy's hostel 2, GANJAM GANJAM GANJAM Ganjam GANJAM Odisha 761003 Note: Please quote the Order No.', paraphrased: '699GST 125 The payment gateway fee is zero.'
+2024-10-27 18:28:10,633 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.7513554  0.22710145 0.02154317]
+2024-10-27 18:28:10,633 - INFO - Performing NLI inference between premise: 'for your queries regarding the transaction.' and hypothesis: 'The billing details of Railtel Corporation of India.'
+2024-10-27 18:28:10,766 - INFO - NLI Label: Neutral, Probabilities: [0.03074897 0.95341927 0.01583178]
+2024-10-27 18:28:10,767 - INFO - Processed original: 'for your queries regarding the transaction.', paraphrased: 'The billing details of Railtel Corporation of India.'
+2024-10-27 18:28:10,768 - INFO - Resulting NLI label: Neutral, Probabilities: [0.03074897 0.95341927 0.01583178]
+2024-10-27 18:28:10,768 - INFO - Performing NLI inference between premise: '2024-10-18 15:31:10   10/18/24, 3:31 PM Railwire Billing https://od.' and hypothesis: '3rd floor, 1st floor, attached building.'
+2024-10-27 18:28:10,952 - INFO - NLI Label: Contradiction, Probabilities: [0.8006638  0.18346675 0.01586943]
+2024-10-27 18:28:10,954 - INFO - Processed original: '2024-10-18 15:31:10   10/18/24, 3:31 PM Railwire Billing https://od.', paraphrased: '3rd floor, 1st floor, attached building.'
+2024-10-27 18:28:10,954 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.8006638  0.18346675 0.01586943]
+2024-10-27 18:28:10,954 - INFO - Performing NLI inference between premise: 'railwire.' and hypothesis: 'O. Chandrasekharpur, Khordha, is located in the state of Odisha.'
+2024-10-27 18:28:11,100 - INFO - NLI Label: Neutral, Probabilities: [0.3321781  0.43364105 0.23418093]
+2024-10-27 18:28:11,102 - INFO - Processed original: 'railwire.', paraphrased: 'O. Chandrasekharpur, Khordha, is located in the state of Odisha.'
+2024-10-27 18:28:11,103 - INFO - Resulting NLI label: Neutral, Probabilities: [0.3321781  0.43364105 0.23418093]
+2024-10-27 18:28:11,103 - INFO - Performing NLI inference between premise: 'co. in/subscribercntl/subonlinerecharge 1/1' and hypothesis: 'A youth hostel 2, GANJAM GANJAM GANJAM Ganjam, is located in GANJAM.'
+2024-10-27 18:28:11,297 - INFO - NLI Label: Neutral, Probabilities: [0.208367   0.4881552  0.30347782]
+2024-10-27 18:28:11,299 - INFO - Processed original: 'co. in/subscribercntl/subonlinerecharge 1/1', paraphrased: 'A youth hostel 2, GANJAM GANJAM GANJAM Ganjam, is located in GANJAM.'
+2024-10-27 18:28:11,299 - INFO - Resulting NLI label: Neutral, Probabilities: [0.208367   0.4881552  0.30347782]
+2024-10-27 18:28:11,299 - INFO - Average NLI label: Neutral, Average probabilities: [0.22732973 0.61476594 0.15790433]
+2024-10-27 18:29:01,245 - INFO - Original corpus length: 12 sentences
+2024-10-27 18:29:01,246 - INFO - Paraphrased corpus length: 14 sentences
+2024-10-27 18:29:01,246 - INFO - Performing NLI inference between premise: 'Copyright © 2021 | Rconverge | All Rights Reserved Transaction Response Print Payment-Gatway Response : Success Successful Transaction Thank you.' and hypothesis: 'All Rights Reserved Transaction Response Print Payment- Gatway Thank you for the response.'
+2024-10-27 18:29:01,469 - INFO - NLI Label: Entailment, Probabilities: [0.00359584 0.314317   0.6820872 ]
+2024-10-27 18:29:01,471 - INFO - Processed original: 'Copyright © 2021 | Rconverge | All Rights Reserved Transaction Response Print Payment-Gatway Response : Success Successful Transaction Thank you.', paraphrased: 'All Rights Reserved Transaction Response Print Payment- Gatway Thank you for the response.'
+2024-10-27 18:29:01,472 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00359584 0.314317   0.6820872 ]
+2024-10-27 18:29:01,472 - INFO - Performing NLI inference between premise: 'Your Payment has been successfully received with the following details.' and hypothesis: 'Your payment has been received.'
+2024-10-27 18:29:01,608 - INFO - NLI Label: Entailment, Probabilities: [0.00151364 0.0061936  0.99229276]
+2024-10-27 18:29:01,609 - INFO - Processed original: 'Your Payment has been successfully received with the following details.', paraphrased: 'Your payment has been received.'
+2024-10-27 18:29:01,610 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00151364 0.0061936  0.99229276]
+2024-10-27 18:29:01,610 - INFO - Performing NLI inference between premise: 'Please quote you transaction reference number for any queries relating to this request.' and hypothesis: 'For any queries relating to this request, please quote the transaction reference number.'
+2024-10-27 18:29:01,764 - INFO - NLI Label: Entailment, Probabilities: [0.00177151 0.00436921 0.99385935]
+2024-10-27 18:29:01,766 - INFO - Processed original: 'Please quote you transaction reference number for any queries relating to this request.', paraphrased: 'For any queries relating to this request, please quote the transaction reference number.'
+2024-10-27 18:29:01,766 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00177151 0.00436921 0.99385935]
+2024-10-27 18:29:01,766 - INFO - Performing NLI inference between premise: 'Note: Payment will be credited to your Railwire Billing account within 3 working days.' and hypothesis: 'Payment will be credited to your Railwire Billing account in 3 working days.'
+2024-10-27 18:29:01,932 - INFO - NLI Label: Entailment, Probabilities: [0.00119706 0.00468774 0.99411523]
+2024-10-27 18:29:01,934 - INFO - Processed original: 'Note: Payment will be credited to your Railwire Billing account within 3 working days.', paraphrased: 'Payment will be credited to your Railwire Billing account in 3 working days.'
+2024-10-27 18:29:01,935 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00119706 0.00468774 0.99411523]
+2024-10-27 18:29:01,935 - INFO - Performing NLI inference between premise: 'Transaction Status Success Atom Transaction Reference Number to the Banker 5E47533TAT82520241018153011OD BSS Reference 5E47533TAT82520241018153011OD Transaction Date and Time 2024-10-18 15:30:59 Service Period 2024-10-18 To 2024-11-17 Recharged Amount (Rs. )' and hypothesis: 'The transaction reference number is the transaction status.'
+2024-10-27 18:29:02,209 - INFO - NLI Label: Entailment, Probabilities: [0.01462236 0.03474019 0.9506374 ]
+2024-10-27 18:29:02,214 - INFO - Processed original: 'Transaction Status Success Atom Transaction Reference Number to the Banker 5E47533TAT82520241018153011OD BSS Reference 5E47533TAT82520241018153011OD Transaction Date and Time 2024-10-18 15:30:59 Service Period 2024-10-18 To 2024-11-17 Recharged Amount (Rs. )', paraphrased: 'The transaction reference number is the transaction status.'
+2024-10-27 18:29:02,214 - INFO - Resulting NLI label: Entailment, Probabilities: [0.01462236 0.03474019 0.9506374 ]
+2024-10-27 18:29:02,214 - INFO - Performing NLI inference between premise: '699 GST 125.' and hypothesis: 'BSS reference 5E47533TAT82520241018153011OD Transaction Date and Time The service period ended on October 18th.'
+2024-10-27 18:29:02,376 - INFO - NLI Label: Neutral, Probabilities: [0.0510905  0.9274312  0.02147834]
+2024-10-27 18:29:02,378 - INFO - Processed original: '699 GST 125.', paraphrased: 'BSS reference 5E47533TAT82520241018153011OD Transaction Date and Time The service period ended on October 18th.'
+2024-10-27 18:29:02,379 - INFO - Resulting NLI label: Neutral, Probabilities: [0.0510905  0.9274312  0.02147834]
+2024-10-27 18:29:02,379 - INFO - Performing NLI inference between premise: '82 Payment Gateway Charge % 0 Grand Total 824.' and hypothesis: '699GST 125 The payment gateway charge is zero.'
+2024-10-27 18:29:02,522 - INFO - NLI Label: Contradiction, Probabilities: [0.52552134 0.13615803 0.3383206 ]
+2024-10-27 18:29:02,523 - INFO - Processed original: '82 Payment Gateway Charge % 0 Grand Total 824.', paraphrased: '699GST 125 The payment gateway charge is zero.'
+2024-10-27 18:29:02,524 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.52552134 0.13615803 0.3383206 ]
+2024-10-27 18:29:02,524 - INFO - Performing NLI inference between premise: '82     Billing Details   Railtel Corporation of India Ltd. 3rd floor,   1st Floor, Annex Building, B-Block, P. O. Chandrasekharpur,Khordha, Odisha, 751023   GSTIN :21AABCR7176C1ZP       PAN :AABCR7176C   Subscriber Address   ANSUMAN SIMANTA SEKHAR BHUJABALA   Boy's hostel 2, GANJAM GANJAM GANJAM Ganjam GANJAM Odisha 761003 Note: Please quote the Order No.' and hypothesis: 'The billing details of Railtel Corporation of India.'
+2024-10-27 18:29:02,913 - INFO - NLI Label: Entailment, Probabilities: [0.01787573 0.01620875 0.9659155 ]
+2024-10-27 18:29:02,917 - INFO - Processed original: '82     Billing Details   Railtel Corporation of India Ltd. 3rd floor,   1st Floor, Annex Building, B-Block, P. O. Chandrasekharpur,Khordha, Odisha, 751023   GSTIN :21AABCR7176C1ZP       PAN :AABCR7176C   Subscriber Address   ANSUMAN SIMANTA SEKHAR BHUJABALA   Boy's hostel 2, GANJAM GANJAM GANJAM Ganjam GANJAM Odisha 761003 Note: Please quote the Order No.', paraphrased: 'The billing details of Railtel Corporation of India.'
+2024-10-27 18:29:02,918 - INFO - Resulting NLI label: Entailment, Probabilities: [0.01787573 0.01620875 0.9659155 ]
+2024-10-27 18:29:02,918 - INFO - Performing NLI inference between premise: 'for your queries regarding the transaction.' and hypothesis: '3rd floor, 1st floor, Annex Building.'
+2024-10-27 18:29:03,054 - INFO - NLI Label: Contradiction, Probabilities: [0.49199176 0.42916766 0.07884058]
+2024-10-27 18:29:03,055 - INFO - Processed original: 'for your queries regarding the transaction.', paraphrased: '3rd floor, 1st floor, Annex Building.'
+2024-10-27 18:29:03,056 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.49199176 0.42916766 0.07884058]
+2024-10-27 18:29:03,056 - INFO - Performing NLI inference between premise: '2024-10-18 15:31:10   10/18/24, 3:31 PM Railwire Billing https://od.' and hypothesis: 'O. Chandrasekharpur,Khordha, is located in the state of Odisha.'
+2024-10-27 18:29:03,399 - INFO - NLI Label: Neutral, Probabilities: [0.168287   0.67908716 0.15262587]
+2024-10-27 18:29:03,408 - INFO - Processed original: '2024-10-18 15:31:10   10/18/24, 3:31 PM Railwire Billing https://od.', paraphrased: 'O. Chandrasekharpur,Khordha, is located in the state of Odisha.'
+2024-10-27 18:29:03,408 - INFO - Resulting NLI label: Neutral, Probabilities: [0.168287   0.67908716 0.15262587]
+2024-10-27 18:29:03,408 - INFO - Performing NLI inference between premise: 'railwire.' and hypothesis: 'A boy's hostel 2, GANJAM GANJAM GANJAM Ganjam, is located in GANJAM.'
+2024-10-27 18:29:03,693 - INFO - NLI Label: Neutral, Probabilities: [0.09855056 0.4573022  0.44414732]
+2024-10-27 18:29:03,697 - INFO - Processed original: 'railwire.', paraphrased: 'A boy's hostel 2, GANJAM GANJAM GANJAM Ganjam, is located in GANJAM.'
+2024-10-27 18:29:03,698 - INFO - Resulting NLI label: Neutral, Probabilities: [0.09855056 0.4573022  0.44414732]
+2024-10-27 18:29:03,698 - INFO - Performing NLI inference between premise: 'co. in/subscribercntl/subonlinerecharge 1/1' and hypothesis: 'Please quote the order number.'
+2024-10-27 18:29:03,955 - INFO - NLI Label: Neutral, Probabilities: [0.08109153 0.79172003 0.12718837]
+2024-10-27 18:29:03,958 - INFO - Processed original: 'co. in/subscribercntl/subonlinerecharge 1/1', paraphrased: 'Please quote the order number.'
+2024-10-27 18:29:03,958 - INFO - Resulting NLI label: Neutral, Probabilities: [0.08109153 0.79172003 0.12718837]
+2024-10-27 18:29:03,958 - INFO - Average NLI label: Entailment, Average probabilities: [0.12142574 0.31678188 0.5617924 ]
+2024-10-27 18:29:14,353 - INFO - Original corpus length: 12 sentences
+2024-10-27 18:29:14,354 - INFO - Paraphrased corpus length: 13 sentences
+2024-10-27 18:29:14,354 - INFO - Performing NLI inference between premise: 'Copyright © 2021 | Rconverge | All Rights Reserved Transaction Response Print Payment-Gatway Response : Success Successful Transaction Thank you.' and hypothesis: 'All rights reserved.'
+2024-10-27 18:29:14,515 - INFO - NLI Label: Entailment, Probabilities: [0.00514133 0.02822393 0.96663475]
+2024-10-27 18:29:14,517 - INFO - Processed original: 'Copyright © 2021 | Rconverge | All Rights Reserved Transaction Response Print Payment-Gatway Response : Success Successful Transaction Thank you.', paraphrased: 'All rights reserved.'
+2024-10-27 18:29:14,517 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00514133 0.02822393 0.96663475]
+2024-10-27 18:29:14,517 - INFO - Performing NLI inference between premise: 'Your Payment has been successfully received with the following details.' and hypothesis: 'Transaction Reply Print Payment- Gatway Thank you for the reply.'
+2024-10-27 18:29:14,660 - INFO - NLI Label: Neutral, Probabilities: [0.04312948 0.9033833  0.05348726]
+2024-10-27 18:29:14,661 - INFO - Processed original: 'Your Payment has been successfully received with the following details.', paraphrased: 'Transaction Reply Print Payment- Gatway Thank you for the reply.'
+2024-10-27 18:29:14,661 - INFO - Resulting NLI label: Neutral, Probabilities: [0.04312948 0.9033833  0.05348726]
+2024-10-27 18:29:14,662 - INFO - Performing NLI inference between premise: 'Please quote you transaction reference number for any queries relating to this request.' and hypothesis: 'Your payment has been received.'
+2024-10-27 18:29:14,797 - INFO - NLI Label: Neutral, Probabilities: [0.31305197 0.6623542  0.02459393]
+2024-10-27 18:29:14,801 - INFO - Processed original: 'Please quote you transaction reference number for any queries relating to this request.', paraphrased: 'Your payment has been received.'
+2024-10-27 18:29:14,801 - INFO - Resulting NLI label: Neutral, Probabilities: [0.31305197 0.6623542  0.02459393]
+2024-10-27 18:29:14,801 - INFO - Performing NLI inference between premise: 'Note: Payment will be credited to your Railwire Billing account within 3 working days.' and hypothesis: 'For any request relating to this request, please cite the transaction reference number.'
+2024-10-27 18:29:14,964 - INFO - NLI Label: Neutral, Probabilities: [0.00498302 0.9779198  0.01709715]
+2024-10-27 18:29:14,968 - INFO - Processed original: 'Note: Payment will be credited to your Railwire Billing account within 3 working days.', paraphrased: 'For any request relating to this request, please cite the transaction reference number.'
+2024-10-27 18:29:14,968 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00498302 0.9779198  0.01709715]
+2024-10-27 18:29:14,968 - INFO - Performing NLI inference between premise: 'Transaction Status Success Atom Transaction Reference Number to the Banker 5E47533TAT82520241018153011OD BSS Reference 5E47533TAT82520241018153011OD Transaction Date and Time 2024-10-18 15:30:59 Service Period 2024-10-18 To 2024-11-17 Recharged Amount (Rs. )' and hypothesis: 'The payment will be credited to your billing account by wire within 3 business days.'
+2024-10-27 18:29:15,254 - INFO - NLI Label: Neutral, Probabilities: [0.00123551 0.9977514  0.00101298]
+2024-10-27 18:29:15,259 - INFO - Processed original: 'Transaction Status Success Atom Transaction Reference Number to the Banker 5E47533TAT82520241018153011OD BSS Reference 5E47533TAT82520241018153011OD Transaction Date and Time 2024-10-18 15:30:59 Service Period 2024-10-18 To 2024-11-17 Recharged Amount (Rs. )', paraphrased: 'The payment will be credited to your billing account by wire within 3 business days.'
+2024-10-27 18:29:15,259 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00123551 0.9977514  0.00101298]
+2024-10-27 18:29:15,260 - INFO - Performing NLI inference between premise: '699 GST 125.' and hypothesis: 'The transaction reference number is the status of the transaction.'
+2024-10-27 18:29:15,386 - INFO - NLI Label: Neutral, Probabilities: [0.17303249 0.5952616  0.2317059 ]
+2024-10-27 18:29:15,387 - INFO - Processed original: '699 GST 125.', paraphrased: 'The transaction reference number is the status of the transaction.'
+2024-10-27 18:29:15,388 - INFO - Resulting NLI label: Neutral, Probabilities: [0.17303249 0.5952616  0.2317059 ]
+2024-10-27 18:29:15,388 - INFO - Performing NLI inference between premise: '82 Payment Gateway Charge % 0 Grand Total 824.' and hypothesis: 'Reference BSS 5E47533TAT8252024101815311OD Transaction Date and time The service period ended on October 18th.'
+2024-10-27 18:29:15,564 - INFO - NLI Label: Neutral, Probabilities: [0.06406949 0.9265136  0.00941684]
+2024-10-27 18:29:15,567 - INFO - Processed original: '82 Payment Gateway Charge % 0 Grand Total 824.', paraphrased: 'Reference BSS 5E47533TAT8252024101815311OD Transaction Date and time The service period ended on October 18th.'
+2024-10-27 18:29:15,568 - INFO - Resulting NLI label: Neutral, Probabilities: [0.06406949 0.9265136  0.00941684]
+2024-10-27 18:29:15,568 - INFO - Performing NLI inference between premise: '82     Billing Details   Railtel Corporation of India Ltd. 3rd floor,   1st Floor, Annex Building, B-Block, P. O. Chandrasekharpur,Khordha, Odisha, 751023   GSTIN :21AABCR7176C1ZP       PAN :AABCR7176C   Subscriber Address   ANSUMAN SIMANTA SEKHAR BHUJABALA   Boy's hostel 2, GANJAM GANJAM GANJAM Ganjam GANJAM Odisha 761003 Note: Please quote the Order No.' and hypothesis: '699GST 125 The payment gateway fee is zero.'
+2024-10-27 18:29:15,965 - INFO - NLI Label: Contradiction, Probabilities: [0.7513554  0.22710145 0.02154317]
+2024-10-27 18:29:15,969 - INFO - Processed original: '82     Billing Details   Railtel Corporation of India Ltd. 3rd floor,   1st Floor, Annex Building, B-Block, P. O. Chandrasekharpur,Khordha, Odisha, 751023   GSTIN :21AABCR7176C1ZP       PAN :AABCR7176C   Subscriber Address   ANSUMAN SIMANTA SEKHAR BHUJABALA   Boy's hostel 2, GANJAM GANJAM GANJAM Ganjam GANJAM Odisha 761003 Note: Please quote the Order No.', paraphrased: '699GST 125 The payment gateway fee is zero.'
+2024-10-27 18:29:15,969 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.7513554  0.22710145 0.02154317]
+2024-10-27 18:29:15,969 - INFO - Performing NLI inference between premise: 'for your queries regarding the transaction.' and hypothesis: 'The billing details of Railtel Corporation of India.'
+2024-10-27 18:29:16,111 - INFO - NLI Label: Neutral, Probabilities: [0.03074897 0.95341927 0.01583178]
+2024-10-27 18:29:16,113 - INFO - Processed original: 'for your queries regarding the transaction.', paraphrased: 'The billing details of Railtel Corporation of India.'
+2024-10-27 18:29:16,114 - INFO - Resulting NLI label: Neutral, Probabilities: [0.03074897 0.95341927 0.01583178]
+2024-10-27 18:29:16,114 - INFO - Performing NLI inference between premise: '2024-10-18 15:31:10   10/18/24, 3:31 PM Railwire Billing https://od.' and hypothesis: '3rd floor, 1st floor, attached building.'
+2024-10-27 18:29:16,305 - INFO - NLI Label: Contradiction, Probabilities: [0.8006638  0.18346675 0.01586943]
+2024-10-27 18:29:16,307 - INFO - Processed original: '2024-10-18 15:31:10   10/18/24, 3:31 PM Railwire Billing https://od.', paraphrased: '3rd floor, 1st floor, attached building.'
+2024-10-27 18:29:16,307 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.8006638  0.18346675 0.01586943]
+2024-10-27 18:29:16,307 - INFO - Performing NLI inference between premise: 'railwire.' and hypothesis: 'O. Chandrasekharpur, Khordha, is located in the state of Odisha.'
+2024-10-27 18:29:16,457 - INFO - NLI Label: Neutral, Probabilities: [0.3321781  0.43364105 0.23418093]
+2024-10-27 18:29:16,458 - INFO - Processed original: 'railwire.', paraphrased: 'O. Chandrasekharpur, Khordha, is located in the state of Odisha.'
+2024-10-27 18:29:16,459 - INFO - Resulting NLI label: Neutral, Probabilities: [0.3321781  0.43364105 0.23418093]
+2024-10-27 18:29:16,459 - INFO - Performing NLI inference between premise: 'co. in/subscribercntl/subonlinerecharge 1/1' and hypothesis: 'A youth hostel 2, GANJAM GANJAM GANJAM Ganjam, is located in GANJAM.'
+2024-10-27 18:29:16,652 - INFO - NLI Label: Neutral, Probabilities: [0.208367   0.4881552  0.30347782]
+2024-10-27 18:29:16,653 - INFO - Processed original: 'co. in/subscribercntl/subonlinerecharge 1/1', paraphrased: 'A youth hostel 2, GANJAM GANJAM GANJAM Ganjam, is located in GANJAM.'
+2024-10-27 18:29:16,654 - INFO - Resulting NLI label: Neutral, Probabilities: [0.208367   0.4881552  0.30347782]
+2024-10-27 18:29:16,654 - INFO - Average NLI label: Neutral, Average probabilities: [0.22732973 0.61476594 0.15790433]
