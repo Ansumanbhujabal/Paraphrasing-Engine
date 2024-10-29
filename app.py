@@ -1,12 +1,10 @@
-
-
 import streamlit as st
 import os
-from Paraphrasing_test import paraphrase_pg
-from Back_Translation import backtranslate
-from NLI_Validation import nli_for_corpus
-from Document_Processing import extract_text
-from Summarizer import summarize_text
+from scripts.Paraphrasing_test import paraphrase_pg
+from scripts.Back_Translation import backtranslate
+from scripts.NLI_Validation import nli_for_corpus
+from scripts.Document_Processing import extract_text
+from scripts.Summarizer import summarize_text
 import nltk
 nltk.download('punkt')
 import warnings

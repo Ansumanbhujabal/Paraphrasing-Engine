@@ -1,92 +1,94 @@
-2024-10-29 18:20:36,754 - INFO - Original corpus length: 1 sentences
-2024-10-29 18:20:36,754 - INFO - Paraphrased corpus length: 1 sentences
-2024-10-29 18:20:36,755 - INFO - Performing NLI inference between premise: 'pip install --upgrade --force-reinstall pymupdf' and hypothesis: 'It's possible to install a force-reinstall pymupdf.'
-2024-10-29 18:20:37,033 - INFO - NLI Label: Entailment, Probabilities: [0.00103412 0.00663409 0.99233174]
-2024-10-29 18:20:37,034 - INFO - Processed original: 'pip install --upgrade --force-reinstall pymupdf', paraphrased: 'It's possible to install a force-reinstall pymupdf.'
-2024-10-29 18:20:37,035 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00103412 0.00663409 0.99233174]
-2024-10-29 18:20:37,035 - INFO - Average NLI label: Entailment, Average probabilities: [0.00103412 0.00663409 0.99233174]
-2024-10-29 18:20:37,896 - INFO - Original corpus length: 1 sentences
-2024-10-29 18:20:37,896 - INFO - Paraphrased corpus length: 1 sentences
-2024-10-29 18:20:37,896 - INFO - Performing NLI inference between premise: 'pip install --upgrade --force-reinstall pymupdf' and hypothesis: 'It is possible to install a force-reinstall pymupdf.'
-2024-10-29 18:20:38,078 - INFO - NLI Label: Entailment, Probabilities: [9.7887230e-04 7.1624885e-03 9.9185866e-01]
-2024-10-29 18:20:38,080 - INFO - Processed original: 'pip install --upgrade --force-reinstall pymupdf', paraphrased: 'It is possible to install a force-reinstall pymupdf.'
-2024-10-29 18:20:38,080 - INFO - Resulting NLI label: Entailment, Probabilities: [9.7887230e-04 7.1624885e-03 9.9185866e-01]
-2024-10-29 18:20:38,080 - INFO - Average NLI label: Entailment, Average probabilities: [9.7887230e-04 7.1624885e-03 9.9185866e-01]
-2024-10-29 18:21:34,409 - INFO - Original corpus length: 9 sentences
-2024-10-29 18:21:34,410 - INFO - Paraphrased corpus length: 17 sentences
-2024-10-29 18:21:34,410 - INFO - Performing NLI inference between premise: 'B.' and hypothesis: 'B.'
-2024-10-29 18:21:34,710 - INFO - NLI Label: Entailment, Probabilities: [0.00338653 0.01849726 0.97811615]
-2024-10-29 18:21:34,712 - INFO - Processed original: 'B.', paraphrased: 'B.'
-2024-10-29 18:21:34,712 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00338653 0.01849726 0.97811615]
-2024-10-29 18:21:34,712 - INFO - Performing NLI inference between premise: 'Tech 7 B.' and hypothesis: 'Tech 7 A.'
-2024-10-29 18:21:34,870 - INFO - NLI Label: Contradiction, Probabilities: [0.9717782  0.01396853 0.01425323]
-2024-10-29 18:21:34,872 - INFO - Processed original: 'Tech 7 B.', paraphrased: 'Tech 7 A.'
-2024-10-29 18:21:34,872 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.9717782  0.01396853 0.01425323]
-2024-10-29 18:21:34,872 - INFO - Performing NLI inference between premise: 'Tech.' and hypothesis: 'Tech.'
-2024-10-29 18:21:35,002 - INFO - NLI Label: Entailment, Probabilities: [0.00993981 0.032988   0.95707226]
-2024-10-29 18:21:35,004 - INFO - Processed original: 'Tech.', paraphrased: 'Tech.'
-2024-10-29 18:21:35,004 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00993981 0.032988   0.95707226]
-2024-10-29 18:21:35,004 - INFO - Performing NLI inference between premise: '(CIVIL ENGINEERING) S. No.' and hypothesis: 'CIVIL ENGINEERING No.'
-2024-10-29 18:21:35,175 - INFO - NLI Label: Entailment, Probabilities: [0.09758788 0.04536428 0.85704786]
-2024-10-29 18:21:35,177 - INFO - Processed original: '(CIVIL ENGINEERING) S. No.', paraphrased: 'CIVIL ENGINEERING No.'
-2024-10-29 18:21:35,178 - INFO - Resulting NLI label: Entailment, Probabilities: [0.09758788 0.04536428 0.85704786]
-2024-10-29 18:21:35,178 - INFO - Performing NLI inference between premise: 'Subject Code Subject Name Exam Date Sitting Type 1 RED7E001 Entrepreneurship   Development 25-11-2024 1st Regular/Back 2 RCI7D004 Integrated Watershed Management 27-11-2024 1st Regular/Back 3 RIT7D001 Internet of Things 27-11-2024 1st Regular/Back 4 RCI7D005 Ground Water Hydrology 29-11-2024 1st Regular/Back 5 RCI7D006 Water Resource Engineering 29-11-2024 1st Regular/Back 6 RGT6A003 Green Technology 02-12-2024 1st Regular/Back 7 RCI7D001 Prestressed Concrete 04-12-2024 1st Regular/Back 8 RIP7E002 Intellectual Property Right 06-12-2024 1st Regular/Back 9 RAE6G001 Finite Element Method 06-12-2024 1st Regular/Back 10 REV5D004 Disaster Management 09-12-2024 1st Regular/Back 11 RCI7D002 Design of Concrete Structures-II 11-12-2024 1st Regular/Back 12 RCI7D003 Estimating, Costing and Professional  Practice 11-12-2024 1st Regular/Back 13 RCS7D007 Soft Computing 13-12-2024 1st Regular/Back 14 RIT7D006 E-Commerce & ERP 13-12-2024 1st Regular/Back 15 RIS7B001 Industrial Safety Engineering 16-12-2024 1st Regular/Back 16 RMM7E003 Marketing Management 17-12-2024 1st Regular/Back 1st Sitting : 10.' and hypothesis: 'The exam date is sitting type 1 RED7E001.'
-2024-10-29 18:21:36,348 - INFO - NLI Label: Entailment, Probabilities: [0.16835605 0.10376761 0.7278763 ]
-2024-10-29 18:21:36,351 - INFO - Processed original: 'Subject Code Subject Name Exam Date Sitting Type 1 RED7E001 Entrepreneurship   Development 25-11-2024 1st Regular/Back 2 RCI7D004 Integrated Watershed Management 27-11-2024 1st Regular/Back 3 RIT7D001 Internet of Things 27-11-2024 1st Regular/Back 4 RCI7D005 Ground Water Hydrology 29-11-2024 1st Regular/Back 5 RCI7D006 Water Resource Engineering 29-11-2024 1st Regular/Back 6 RGT6A003 Green Technology 02-12-2024 1st Regular/Back 7 RCI7D001 Prestressed Concrete 04-12-2024 1st Regular/Back 8 RIP7E002 Intellectual Property Right 06-12-2024 1st Regular/Back 9 RAE6G001 Finite Element Method 06-12-2024 1st Regular/Back 10 REV5D004 Disaster Management 09-12-2024 1st Regular/Back 11 RCI7D002 Design of Concrete Structures-II 11-12-2024 1st Regular/Back 12 RCI7D003 Estimating, Costing and Professional  Practice 11-12-2024 1st Regular/Back 13 RCS7D007 Soft Computing 13-12-2024 1st Regular/Back 14 RIT7D006 E-Commerce & ERP 13-12-2024 1st Regular/Back 15 RIS7B001 Industrial Safety Engineering 16-12-2024 1st Regular/Back 16 RMM7E003 Marketing Management 17-12-2024 1st Regular/Back 1st Sitting : 10.', paraphrased: 'The exam date is sitting type 1 RED7E001.'
-2024-10-29 18:21:36,351 - INFO - Resulting NLI label: Entailment, Probabilities: [0.16835605 0.10376761 0.7278763 ]
-2024-10-29 18:21:36,352 - INFO - Performing NLI inference between premise: '00 AM to 01.' and hypothesis: '2nd Regular/ Back 3 RIT7D001 Internet of Things 27-11-2024 1st Regular/ Back 4 RCI7D005 Ground Water Hydrology Regular/ Back 6 RGT6A003 Green.'
-2024-10-29 18:21:36,651 - INFO - NLI Label: Contradiction, Probabilities: [0.42763925 0.38096005 0.19140072]
-2024-10-29 18:21:36,653 - INFO - Processed original: '00 AM to 01.', paraphrased: '2nd Regular/ Back 3 RIT7D001 Internet of Things 27-11-2024 1st Regular/ Back 4 RCI7D005 Ground Water Hydrology Regular/ Back 6 RGT6A003 Green.'
-2024-10-29 18:21:36,653 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.42763925 0.38096005 0.19140072]
-2024-10-29 18:21:36,654 - INFO - Performing NLI inference between premise: '00 PM, 2nd Sitting : 02.' and hypothesis: 'The first Regular/ Back was on February 12th, the second Regular/ Back was on April 20th.'
-2024-10-29 18:21:36,906 - INFO - NLI Label: Neutral, Probabilities: [0.23745961 0.6867923  0.07574803]
-2024-10-29 18:21:36,908 - INFO - Processed original: '00 PM, 2nd Sitting : 02.', paraphrased: 'The first Regular/ Back was on February 12th, the second Regular/ Back was on April 20th.'
-2024-10-29 18:21:36,909 - INFO - Resulting NLI label: Neutral, Probabilities: [0.23745961 0.6867923  0.07574803]
-2024-10-29 18:21:36,909 - INFO - Performing NLI inference between premise: '00 PM to 05.' and hypothesis: 'Intellectual Property Right 06-12-2024 1st Regular/ Back.'
-2024-10-29 18:21:37,120 - INFO - NLI Label: Contradiction, Probabilities: [0.44695362 0.43625757 0.11678878]
-2024-10-29 18:21:37,122 - INFO - Processed original: '00 PM to 05.', paraphrased: 'Intellectual Property Right 06-12-2024 1st Regular/ Back.'
-2024-10-29 18:21:37,122 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.44695362 0.43625757 0.11678878]
-2024-10-29 18:21:37,123 - INFO - Performing NLI inference between premise: '00 PM BIJU PATNAIK UNIVERSITY OF TECHNOLOGY, ODISHA ROURKELA Odd Semester (Regular/Back) Examinations 2024-25 Phase-I 29/10/2024 19:53:45' and hypothesis: 'Disaster Management 09-12-20 24 1st Regular/ Back 11 RCI7D002 Cost and Estimating are included in the design of concrete structures.'
-2024-10-29 18:21:37,538 - INFO - NLI Label: Contradiction, Probabilities: [0.7883628  0.17636733 0.03526995]
-2024-10-29 18:21:37,540 - INFO - Processed original: '00 PM BIJU PATNAIK UNIVERSITY OF TECHNOLOGY, ODISHA ROURKELA Odd Semester (Regular/Back) Examinations 2024-25 Phase-I 29/10/2024 19:53:45', paraphrased: 'Disaster Management 09-12-20 24 1st Regular/ Back 11 RCI7D002 Cost and Estimating are included in the design of concrete structures.'
-2024-10-29 18:21:37,540 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.7883628  0.17636733 0.03526995]
-2024-10-29 18:21:37,541 - INFO - Average NLI label: Entailment, Average probabilities: [0.35016263 0.21055144 0.4392859 ]
-2024-10-29 18:21:49,515 - INFO - Original corpus length: 9 sentences
-2024-10-29 18:21:49,516 - INFO - Paraphrased corpus length: 11 sentences
-2024-10-29 18:21:49,516 - INFO - Performing NLI inference between premise: 'B.' and hypothesis: 'B.'
-2024-10-29 18:21:49,647 - INFO - NLI Label: Entailment, Probabilities: [0.00338653 0.01849726 0.97811615]
-2024-10-29 18:21:49,648 - INFO - Processed original: 'B.', paraphrased: 'B.'
-2024-10-29 18:21:49,649 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00338653 0.01849726 0.97811615]
-2024-10-29 18:21:49,649 - INFO - Performing NLI inference between premise: 'Tech 7 B.' and hypothesis: 'Tech 7 A.'
-2024-10-29 18:21:49,802 - INFO - NLI Label: Contradiction, Probabilities: [0.9717782  0.01396853 0.01425323]
-2024-10-29 18:21:49,803 - INFO - Processed original: 'Tech 7 B.', paraphrased: 'Tech 7 A.'
-2024-10-29 18:21:49,804 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.9717782  0.01396853 0.01425323]
-2024-10-29 18:21:49,804 - INFO - Performing NLI inference between premise: 'Tech.' and hypothesis: 'Tech.'
-2024-10-29 18:21:49,932 - INFO - NLI Label: Entailment, Probabilities: [0.00993981 0.032988   0.95707226]
-2024-10-29 18:21:49,933 - INFO - Processed original: 'Tech.', paraphrased: 'Tech.'
-2024-10-29 18:21:49,934 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00993981 0.032988   0.95707226]
-2024-10-29 18:21:49,934 - INFO - Performing NLI inference between premise: '(CIVIL ENGINEERING) S. No.' and hypothesis: 'CIVIL ENGINEERING No.'
-2024-10-29 18:21:50,095 - INFO - NLI Label: Entailment, Probabilities: [0.09758788 0.04536428 0.85704786]
-2024-10-29 18:21:50,096 - INFO - Processed original: '(CIVIL ENGINEERING) S. No.', paraphrased: 'CIVIL ENGINEERING No.'
-2024-10-29 18:21:50,097 - INFO - Resulting NLI label: Entailment, Probabilities: [0.09758788 0.04536428 0.85704786]
-2024-10-29 18:21:50,097 - INFO - Performing NLI inference between premise: 'Subject Code Subject Name Exam Date Sitting Type 1 RED7E001 Entrepreneurship   Development 25-11-2024 1st Regular/Back 2 RCI7D004 Integrated Watershed Management 27-11-2024 1st Regular/Back 3 RIT7D001 Internet of Things 27-11-2024 1st Regular/Back 4 RCI7D005 Ground Water Hydrology 29-11-2024 1st Regular/Back 5 RCI7D006 Water Resource Engineering 29-11-2024 1st Regular/Back 6 RGT6A003 Green Technology 02-12-2024 1st Regular/Back 7 RCI7D001 Prestressed Concrete 04-12-2024 1st Regular/Back 8 RIP7E002 Intellectual Property Right 06-12-2024 1st Regular/Back 9 RAE6G001 Finite Element Method 06-12-2024 1st Regular/Back 10 REV5D004 Disaster Management 09-12-2024 1st Regular/Back 11 RCI7D002 Design of Concrete Structures-II 11-12-2024 1st Regular/Back 12 RCI7D003 Estimating, Costing and Professional  Practice 11-12-2024 1st Regular/Back 13 RCS7D007 Soft Computing 13-12-2024 1st Regular/Back 14 RIT7D006 E-Commerce & ERP 13-12-2024 1st Regular/Back 15 RIS7B001 Industrial Safety Engineering 16-12-2024 1st Regular/Back 16 RMM7E003 Marketing Management 17-12-2024 1st Regular/Back 1st Sitting : 10.' and hypothesis: 'The date of the examination is its type 1 RED7E001.'
-2024-10-29 18:21:51,166 - INFO - NLI Label: Entailment, Probabilities: [0.19894037 0.10400654 0.6970531 ]
-2024-10-29 18:21:51,168 - INFO - Processed original: 'Subject Code Subject Name Exam Date Sitting Type 1 RED7E001 Entrepreneurship   Development 25-11-2024 1st Regular/Back 2 RCI7D004 Integrated Watershed Management 27-11-2024 1st Regular/Back 3 RIT7D001 Internet of Things 27-11-2024 1st Regular/Back 4 RCI7D005 Ground Water Hydrology 29-11-2024 1st Regular/Back 5 RCI7D006 Water Resource Engineering 29-11-2024 1st Regular/Back 6 RGT6A003 Green Technology 02-12-2024 1st Regular/Back 7 RCI7D001 Prestressed Concrete 04-12-2024 1st Regular/Back 8 RIP7E002 Intellectual Property Right 06-12-2024 1st Regular/Back 9 RAE6G001 Finite Element Method 06-12-2024 1st Regular/Back 10 REV5D004 Disaster Management 09-12-2024 1st Regular/Back 11 RCI7D002 Design of Concrete Structures-II 11-12-2024 1st Regular/Back 12 RCI7D003 Estimating, Costing and Professional  Practice 11-12-2024 1st Regular/Back 13 RCS7D007 Soft Computing 13-12-2024 1st Regular/Back 14 RIT7D006 E-Commerce & ERP 13-12-2024 1st Regular/Back 15 RIS7B001 Industrial Safety Engineering 16-12-2024 1st Regular/Back 16 RMM7E003 Marketing Management 17-12-2024 1st Regular/Back 1st Sitting : 10.', paraphrased: 'The date of the examination is its type 1 RED7E001.'
-2024-10-29 18:21:51,168 - INFO - Resulting NLI label: Entailment, Probabilities: [0.19894037 0.10400654 0.6970531 ]
-2024-10-29 18:21:51,169 - INFO - Performing NLI inference between premise: '00 AM to 01.' and hypothesis: '2nd Regular/ Back 3 RIT7D001 Internet of Things 27-11-2024 1st Regular/ Back 4 RCI7D005 Ground Water Hydrology Regular/ Back 6 RGT6A003 Green.'
-2024-10-29 18:21:51,445 - INFO - NLI Label: Contradiction, Probabilities: [0.42763925 0.38096005 0.19140072]
-2024-10-29 18:21:51,447 - INFO - Processed original: '00 AM to 01.', paraphrased: '2nd Regular/ Back 3 RIT7D001 Internet of Things 27-11-2024 1st Regular/ Back 4 RCI7D005 Ground Water Hydrology Regular/ Back 6 RGT6A003 Green.'
-2024-10-29 18:21:51,448 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.42763925 0.38096005 0.19140072]
-2024-10-29 18:21:51,448 - INFO - Performing NLI inference between premise: '00 PM, 2nd Sitting : 02.' and hypothesis: 'The first Regular/ Back was on February 12, the second Regular/ Back was on April 20.'
-2024-10-29 18:21:51,662 - INFO - NLI Label: Neutral, Probabilities: [0.25243014 0.6485831  0.09898673]
-2024-10-29 18:21:51,664 - INFO - Processed original: '00 PM, 2nd Sitting : 02.', paraphrased: 'The first Regular/ Back was on February 12, the second Regular/ Back was on April 20.'
-2024-10-29 18:21:51,665 - INFO - Resulting NLI label: Neutral, Probabilities: [0.25243014 0.6485831  0.09898673]
-2024-10-29 18:21:51,665 - INFO - Performing NLI inference between premise: '00 PM to 05.' and hypothesis: 'Intellectual Property Right 06-12-2024 1st Regular/ Back.'
-2024-10-29 18:21:51,855 - INFO - NLI Label: Contradiction, Probabilities: [0.44695362 0.43625757 0.11678878]
-2024-10-29 18:21:51,857 - INFO - Processed original: '00 PM to 05.', paraphrased: 'Intellectual Property Right 06-12-2024 1st Regular/ Back.'
-2024-10-29 18:21:51,858 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.44695362 0.43625757 0.11678878]
-2024-10-29 18:21:51,858 - INFO - Performing NLI inference between premise: '00 PM BIJU PATNAIK UNIVERSITY OF TECHNOLOGY, ODISHA ROURKELA Odd Semester (Regular/Back) Examinations 2024-25 Phase-I 29/10/2024 19:53:45' and hypothesis: 'Disaster Management 09-12-20 24 1st Regular/ Back 11 RCI7D002 Costs and estimates are included in the design of concrete structures.'
-2024-10-29 18:21:52,218 - INFO - NLI Label: Contradiction, Probabilities: [0.7865561  0.17549689 0.03794699]
-2024-10-29 18:21:52,220 - INFO - Processed original: '00 PM BIJU PATNAIK UNIVERSITY OF TECHNOLOGY, ODISHA ROURKELA Odd Semester (Regular/Back) Examinations 2024-25 Phase-I 29/10/2024 19:53:45', paraphrased: 'Disaster Management 09-12-20 24 1st Regular/ Back 11 RCI7D002 Costs and estimates are included in the design of concrete structures.'
-2024-10-29 18:21:52,220 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.7865561  0.17549689 0.03794699]
-2024-10-29 18:21:52,220 - INFO - Average NLI label: Entailment, Average probabilities: [0.35502353 0.20623583 0.4387406 ]
+2024-10-29 20:06:26,256 - INFO - Original corpus length: 11 sentences
+2024-10-29 20:06:26,256 - INFO - Paraphrased corpus length: 23 sentences
+2024-10-29 20:06:26,256 - INFO - Performing NLI inference between premise: ' OBJECTIVE Aspiring Computer Science graduate with a strong foundation in machine learning and Python programming, seeking a challenging role to leverage my technical skills and academic knowledge.' and hypothesis: 'A computer science graduate with a strong foundation in machine learning.'
+2024-10-29 20:06:26,734 - INFO - NLI Label: Entailment, Probabilities: [0.07161062 0.01503954 0.91334987]
+2024-10-29 20:06:26,736 - INFO - Processed original: ' OBJECTIVE Aspiring Computer Science graduate with a strong foundation in machine learning and Python programming, seeking a challenging role to leverage my technical skills and academic knowledge.', paraphrased: 'A computer science graduate with a strong foundation in machine learning.'
+2024-10-29 20:06:26,736 - INFO - Resulting NLI label: Entailment, Probabilities: [0.07161062 0.01503954 0.91334987]
+2024-10-29 20:06:26,736 - INFO - Performing NLI inference between premise: 'Eager to contribute to innovative projects and gain hands-on experience in developing and deploying data-driven solutions.' and hypothesis: 'I'm looking for a challenging role to leverage my technical skills.'
+2024-10-29 20:06:27,065 - INFO - NLI Label: Neutral, Probabilities: [0.00134816 0.6988688  0.29978308]
+2024-10-29 20:06:27,066 - INFO - Processed original: 'Eager to contribute to innovative projects and gain hands-on experience in developing and deploying data-driven solutions.', paraphrased: 'I'm looking for a challenging role to leverage my technical skills.'
+2024-10-29 20:06:27,066 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00134816 0.6988688  0.29978308]
+2024-10-29 20:06:27,066 - INFO - Performing NLI inference between premise: 'Passionate about continuous learning and collaborating within dynamic teams to solve real-world problems.' and hypothesis: 'knowledge Interested in contributing to innovative projects and gaining hands-on experience in developing and deploy.'
+2024-10-29 20:06:27,424 - INFO - NLI Label: Neutral, Probabilities: [0.00169615 0.72514814 0.27315578]
+2024-10-29 20:06:27,425 - INFO - Processed original: 'Passionate about continuous learning and collaborating within dynamic teams to solve real-world problems.', paraphrased: 'knowledge Interested in contributing to innovative projects and gaining hands-on experience in developing and deploy.'
+2024-10-29 20:06:27,425 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00169615 0.72514814 0.27315578]
+2024-10-29 20:06:27,426 - INFO - Performing NLI inference between premise: 'EDUCATION Bachelor of Computer Science, Prala Maharaja Engineering College Expected 2025 Relevant Coursework: ML, Python, Non-relational Database SKILLS Programming Language Python, JavaScript, Shell Script Cloud Technologies AWS Monitoring Grafana, Prometheus Database MongoDB Machine Learning Scikit-Learn, NumPy, Pandas, BeautifulSoup, Model Development EXPERIENCE Software Intern May 2024 - Till Date Invest4Edu Hyderabad, IN • Designed and implemented a web crawler for scrapping educational data from various Institutes published over the internet applying various policies and guidelines.' and hypothesis: 'There are data-driven solutions.'
+2024-10-29 20:06:27,892 - INFO - NLI Label: Entailment, Probabilities: [0.00310122 0.15885869 0.8380401 ]
+2024-10-29 20:06:27,893 - INFO - Processed original: 'EDUCATION Bachelor of Computer Science, Prala Maharaja Engineering College Expected 2025 Relevant Coursework: ML, Python, Non-relational Database SKILLS Programming Language Python, JavaScript, Shell Script Cloud Technologies AWS Monitoring Grafana, Prometheus Database MongoDB Machine Learning Scikit-Learn, NumPy, Pandas, BeautifulSoup, Model Development EXPERIENCE Software Intern May 2024 - Till Date Invest4Edu Hyderabad, IN • Designed and implemented a web crawler for scrapping educational data from various Institutes published over the internet applying various policies and guidelines.', paraphrased: 'There are data-driven solutions.'
+2024-10-29 20:06:27,893 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00310122 0.15885869 0.8380401 ]
+2024-10-29 20:06:27,893 - INFO - Performing NLI inference between premise: '• Part of research group and elite team member for designing EDUGPT one of its kind AI framework which emulates the student question and proposes correct answer.' and hypothesis: 'Constantly learning and collaborating with dynamic teams to solve real-world problems.'
+2024-10-29 20:06:28,107 - INFO - NLI Label: Neutral, Probabilities: [0.00359369 0.94898    0.04742634]
+2024-10-29 20:06:28,108 - INFO - Processed original: '• Part of research group and elite team member for designing EDUGPT one of its kind AI framework which emulates the student question and proposes correct answer.', paraphrased: 'Constantly learning and collaborating with dynamic teams to solve real-world problems.'
+2024-10-29 20:06:28,108 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00359369 0.94898    0.04742634]
+2024-10-29 20:06:28,108 - INFO - Performing NLI inference between premise: 'Able to achieve 19% success rate.' and hypothesis: 'There are problems The Prala Maharaja Engineering College has a Bachelor of Computer Science degree.'
+2024-10-29 20:06:28,273 - INFO - NLI Label: Neutral, Probabilities: [0.17556423 0.66062474 0.16381106]
+2024-10-29 20:06:28,275 - INFO - Processed original: 'Able to achieve 19% success rate.', paraphrased: 'There are problems The Prala Maharaja Engineering College has a Bachelor of Computer Science degree.'
+2024-10-29 20:06:28,275 - INFO - Resulting NLI label: Neutral, Probabilities: [0.17556423 0.66062474 0.16381106]
+2024-10-29 20:06:28,275 - INFO - Performing NLI inference between premise: '• Developed a pipeline for building Datasets from huge amount of texts from PDFs PROJECTS Mindflow.' and hypothesis: 'Prerequisites: programming language, non-relational database.'
+2024-10-29 20:06:28,470 - INFO - NLI Label: Neutral, Probabilities: [0.05905704 0.9126962  0.02824679]
+2024-10-29 20:06:28,472 - INFO - Processed original: '• Developed a pipeline for building Datasets from huge amount of texts from PDFs PROJECTS Mindflow.', paraphrased: 'Prerequisites: programming language, non-relational database.'
+2024-10-29 20:06:28,472 - INFO - Resulting NLI label: Neutral, Probabilities: [0.05905704 0.9126962  0.02824679]
+2024-10-29 20:06:28,472 - INFO - Performing NLI inference between premise: 'Mind-Flow is a comprehensive system that combines cutting-edge technology, doctor expertise, and user-centric features to provide a holistic approach to mental health treatment.' and hypothesis: 'Shell Script Cloud Technologies is a cloud technology company.'
+2024-10-29 20:06:28,673 - INFO - NLI Label: Contradiction, Probabilities: [0.5312637  0.39359024 0.07514601]
+2024-10-29 20:06:28,674 - INFO - Processed original: 'Mind-Flow is a comprehensive system that combines cutting-edge technology, doctor expertise, and user-centric features to provide a holistic approach to mental health treatment.', paraphrased: 'Shell Script Cloud Technologies is a cloud technology company.'
+2024-10-29 20:06:28,675 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.5312637  0.39359024 0.07514601]
+2024-10-29 20:06:28,675 - INFO - Performing NLI inference between premise: '!' and hypothesis: 'Model development experience software intern.'
+2024-10-29 20:06:28,824 - INFO - NLI Label: Neutral, Probabilities: [0.12605633 0.7285806  0.14536312]
+2024-10-29 20:06:28,825 - INFO - Processed original: '!', paraphrased: 'Model development experience software intern.'
+2024-10-29 20:06:28,826 - INFO - Resulting NLI label: Neutral, Probabilities: [0.12605633 0.7285806  0.14536312]
+2024-10-29 20:06:28,826 - INFO - Performing NLI inference between premise: '(Check it here) Technology Used Back-end: Python and Data Handler: MongoDB, Monitoring: Grafana & Influx-DB EXTRA-CURRICULAR ACTIVITIES • Actively write Medium when I solve a problem that has no beginner friendly approach on internet.' and hypothesis: 'Invest4Edu was designed and implemented a web crawler.'
+2024-10-29 20:06:29,090 - INFO - NLI Label: Neutral, Probabilities: [0.4118289  0.54650533 0.0416658 ]
+2024-10-29 20:06:29,091 - INFO - Processed original: '(Check it here) Technology Used Back-end: Python and Data Handler: MongoDB, Monitoring: Grafana & Influx-DB EXTRA-CURRICULAR ACTIVITIES • Actively write Medium when I solve a problem that has no beginner friendly approach on internet.', paraphrased: 'Invest4Edu was designed and implemented a web crawler.'
+2024-10-29 20:06:29,092 - INFO - Resulting NLI label: Neutral, Probabilities: [0.4118289  0.54650533 0.0416658 ]
+2024-10-29 20:06:29,092 - INFO - Performing NLI inference between premise: 'EXECUTIVE MANAGEMENT  • Admin for a Technology Community comprising over 60 individuals from various colleges, responsible for pub- lishing technical guild reports based on group discussions.' and hypothesis: 'The educational data was published over the internet.'
+2024-10-29 20:06:29,313 - INFO - NLI Label: Neutral, Probabilities: [0.00104742 0.9969235  0.00202914]
+2024-10-29 20:06:29,314 - INFO - Processed original: 'EXECUTIVE MANAGEMENT  • Admin for a Technology Community comprising over 60 individuals from various colleges, responsible for pub- lishing technical guild reports based on group discussions.', paraphrased: 'The educational data was published over the internet.'
+2024-10-29 20:06:29,314 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00104742 0.9969235  0.00202914]
+2024-10-29 20:06:29,314 - INFO - Average NLI label: Neutral, Average probabilities: [0.12601522 0.61689234 0.25709245]
+2024-10-29 20:06:29,315 - INFO - Original corpus length: 11 sentences
+2024-10-29 20:06:29,315 - INFO - Paraphrased corpus length: 17 sentences
+2024-10-29 20:06:29,315 - INFO - Performing NLI inference between premise: ' OBJECTIVE Aspiring Computer Science graduate with a strong foundation in machine learning and Python programming, seeking a challenging role to leverage my technical skills and academic knowledge.' and hypothesis: 'A graduate in computer science with a solid foundation in machine learning.'
+2024-10-29 20:06:29,536 - INFO - NLI Label: Entailment, Probabilities: [0.1371272  0.01793489 0.8449379 ]
+2024-10-29 20:06:29,537 - INFO - Processed original: ' OBJECTIVE Aspiring Computer Science graduate with a strong foundation in machine learning and Python programming, seeking a challenging role to leverage my technical skills and academic knowledge.', paraphrased: 'A graduate in computer science with a solid foundation in machine learning.'
+2024-10-29 20:06:29,537 - INFO - Resulting NLI label: Entailment, Probabilities: [0.1371272  0.01793489 0.8449379 ]
+2024-10-29 20:06:29,537 - INFO - Performing NLI inference between premise: 'Eager to contribute to innovative projects and gain hands-on experience in developing and deploying data-driven solutions.' and hypothesis: 'I am looking for a difficult role to take advantage of my technical skills.'
+2024-10-29 20:06:29,735 - INFO - NLI Label: Neutral, Probabilities: [0.02275923 0.93630546 0.04093524]
+2024-10-29 20:06:29,737 - INFO - Processed original: 'Eager to contribute to innovative projects and gain hands-on experience in developing and deploying data-driven solutions.', paraphrased: 'I am looking for a difficult role to take advantage of my technical skills.'
+2024-10-29 20:06:29,737 - INFO - Resulting NLI label: Neutral, Probabilities: [0.02275923 0.93630546 0.04093524]
+2024-10-29 20:06:29,737 - INFO - Performing NLI inference between premise: 'Passionate about continuous learning and collaborating within dynamic teams to solve real-world problems.' and hypothesis: 'knowledge Interested in contributing to innovative projects and gaining practical experience in development and deployment.'
+2024-10-29 20:06:29,928 - INFO - NLI Label: Neutral, Probabilities: [0.00115432 0.60118955 0.39765614]
+2024-10-29 20:06:29,929 - INFO - Processed original: 'Passionate about continuous learning and collaborating within dynamic teams to solve real-world problems.', paraphrased: 'knowledge Interested in contributing to innovative projects and gaining practical experience in development and deployment.'
+2024-10-29 20:06:29,929 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00115432 0.60118955 0.39765614]
+2024-10-29 20:06:29,930 - INFO - Performing NLI inference between premise: 'EDUCATION Bachelor of Computer Science, Prala Maharaja Engineering College Expected 2025 Relevant Coursework: ML, Python, Non-relational Database SKILLS Programming Language Python, JavaScript, Shell Script Cloud Technologies AWS Monitoring Grafana, Prometheus Database MongoDB Machine Learning Scikit-Learn, NumPy, Pandas, BeautifulSoup, Model Development EXPERIENCE Software Intern May 2024 - Till Date Invest4Edu Hyderabad, IN • Designed and implemented a web crawler for scrapping educational data from various Institutes published over the internet applying various policies and guidelines.' and hypothesis: 'There are data-driven solutions.'
+2024-10-29 20:06:30,312 - INFO - NLI Label: Entailment, Probabilities: [0.00310122 0.15885869 0.8380401 ]
+2024-10-29 20:06:30,313 - INFO - Processed original: 'EDUCATION Bachelor of Computer Science, Prala Maharaja Engineering College Expected 2025 Relevant Coursework: ML, Python, Non-relational Database SKILLS Programming Language Python, JavaScript, Shell Script Cloud Technologies AWS Monitoring Grafana, Prometheus Database MongoDB Machine Learning Scikit-Learn, NumPy, Pandas, BeautifulSoup, Model Development EXPERIENCE Software Intern May 2024 - Till Date Invest4Edu Hyderabad, IN • Designed and implemented a web crawler for scrapping educational data from various Institutes published over the internet applying various policies and guidelines.', paraphrased: 'There are data-driven solutions.'
+2024-10-29 20:06:30,313 - INFO - Resulting NLI label: Entailment, Probabilities: [0.00310122 0.15885869 0.8380401 ]
+2024-10-29 20:06:30,313 - INFO - Performing NLI inference between premise: '• Part of research group and elite team member for designing EDUGPT one of its kind AI framework which emulates the student question and proposes correct answer.' and hypothesis: 'Constant learning and collaboration with dynamic teams to solve real problems.'
+2024-10-29 20:06:30,527 - INFO - NLI Label: Neutral, Probabilities: [0.00270478 0.9176766  0.07961854]
+2024-10-29 20:06:30,528 - INFO - Processed original: '• Part of research group and elite team member for designing EDUGPT one of its kind AI framework which emulates the student question and proposes correct answer.', paraphrased: 'Constant learning and collaboration with dynamic teams to solve real problems.'
+2024-10-29 20:06:30,528 - INFO - Resulting NLI label: Neutral, Probabilities: [0.00270478 0.9176766  0.07961854]
+2024-10-29 20:06:30,528 - INFO - Performing NLI inference between premise: 'Able to achieve 19% success rate.' and hypothesis: 'There are problems Prala Maharaja Engineering College has a Bachelor of Computer Science.'
+2024-10-29 20:06:30,694 - INFO - NLI Label: Neutral, Probabilities: [0.17505647 0.6465986  0.17834492]
+2024-10-29 20:06:30,695 - INFO - Processed original: 'Able to achieve 19% success rate.', paraphrased: 'There are problems Prala Maharaja Engineering College has a Bachelor of Computer Science.'
+2024-10-29 20:06:30,696 - INFO - Resulting NLI label: Neutral, Probabilities: [0.17505647 0.6465986  0.17834492]
+2024-10-29 20:06:30,696 - INFO - Performing NLI inference between premise: '• Developed a pipeline for building Datasets from huge amount of texts from PDFs PROJECTS Mindflow.' and hypothesis: 'Prerequisites: programming language, non-relational database.'
+2024-10-29 20:06:30,888 - INFO - NLI Label: Neutral, Probabilities: [0.05905704 0.9126962  0.02824679]
+2024-10-29 20:06:30,889 - INFO - Processed original: '• Developed a pipeline for building Datasets from huge amount of texts from PDFs PROJECTS Mindflow.', paraphrased: 'Prerequisites: programming language, non-relational database.'
+2024-10-29 20:06:30,890 - INFO - Resulting NLI label: Neutral, Probabilities: [0.05905704 0.9126962  0.02824679]
+2024-10-29 20:06:30,890 - INFO - Performing NLI inference between premise: 'Mind-Flow is a comprehensive system that combines cutting-edge technology, doctor expertise, and user-centric features to provide a holistic approach to mental health treatment.' and hypothesis: 'Shell Script Cloud Technologies is a cloud technology company.'
+2024-10-29 20:06:31,093 - INFO - NLI Label: Contradiction, Probabilities: [0.5312637  0.39359024 0.07514601]
+2024-10-29 20:06:31,094 - INFO - Processed original: 'Mind-Flow is a comprehensive system that combines cutting-edge technology, doctor expertise, and user-centric features to provide a holistic approach to mental health treatment.', paraphrased: 'Shell Script Cloud Technologies is a cloud technology company.'
+2024-10-29 20:06:31,095 - INFO - Resulting NLI label: Contradiction, Probabilities: [0.5312637  0.39359024 0.07514601]
+2024-10-29 20:06:31,095 - INFO - Performing NLI inference between premise: '!' and hypothesis: 'Internal software development experience model.'
+2024-10-29 20:06:31,245 - INFO - NLI Label: Neutral, Probabilities: [0.15224244 0.7325571  0.11520051]
+2024-10-29 20:06:31,246 - INFO - Processed original: '!', paraphrased: 'Internal software development experience model.'
+2024-10-29 20:06:31,246 - INFO - Resulting NLI label: Neutral, Probabilities: [0.15224244 0.7325571  0.11520051]
+2024-10-29 20:06:31,246 - INFO - Performing NLI inference between premise: '(Check it here) Technology Used Back-end: Python and Data Handler: MongoDB, Monitoring: Grafana & Influx-DB EXTRA-CURRICULAR ACTIVITIES • Actively write Medium when I solve a problem that has no beginner friendly approach on internet.' and hypothesis: 'Invest4Edu was designed and implemented a web crawler.'
+2024-10-29 20:06:31,525 - INFO - NLI Label: Neutral, Probabilities: [0.4118289  0.54650533 0.0416658 ]
+2024-10-29 20:06:31,526 - INFO - Processed original: '(Check it here) Technology Used Back-end: Python and Data Handler: MongoDB, Monitoring: Grafana & Influx-DB EXTRA-CURRICULAR ACTIVITIES • Actively write Medium when I solve a problem that has no beginner friendly approach on internet.', paraphrased: 'Invest4Edu was designed and implemented a web crawler.'
+2024-10-29 20:06:31,527 - INFO - Resulting NLI label: Neutral, Probabilities: [0.4118289  0.54650533 0.0416658 ]
+2024-10-29 20:06:31,527 - INFO - Performing NLI inference between premise: 'EXECUTIVE MANAGEMENT  • Admin for a Technology Community comprising over 60 individuals from various colleges, responsible for pub- lishing technical guild reports based on group discussions.' and hypothesis: 'Educational data were published on the Internet.'
+2024-10-29 20:06:31,739 - INFO - NLI Label: Neutral, Probabilities: [0.008321   0.7818584  0.20982058]
+2024-10-29 20:06:31,740 - INFO - Processed original: 'EXECUTIVE MANAGEMENT  • Admin for a Technology Community comprising over 60 individuals from various colleges, responsible for pub- lishing technical guild reports based on group discussions.', paraphrased: 'Educational data were published on the Internet.'
+2024-10-29 20:06:31,740 - INFO - Resulting NLI label: Neutral, Probabilities: [0.008321   0.7818584  0.20982058]
+2024-10-29 20:06:31,741 - INFO - Average NLI label: Neutral, Average probabilities: [0.1367833  0.604161   0.25905567]

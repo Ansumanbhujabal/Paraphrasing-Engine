@@ -1,7 +1,7 @@
 from transformers import MarianMTModel, MarianTokenizer
 import warnings
 warnings.filterwarnings("ignore")
-from Paraphrasing_test import paraphrase_pg
+from .Paraphrasing_test import paraphrase_pg
 
 
 # Load a translation model (English to French, and French to English)

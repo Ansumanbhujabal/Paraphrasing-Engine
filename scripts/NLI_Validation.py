@@ -4,7 +4,7 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 import torch
 import numpy as np
 import warnings
-from Paraphrasing_test import paraphrase_pg
+from .Paraphrasing_test import paraphrase_pg
 warnings.filterwarnings("ignore")
 import nltk
 nltk.download('punkt')
