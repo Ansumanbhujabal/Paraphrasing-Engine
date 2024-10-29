@@ -7,6 +7,8 @@ from Back_Translation import backtranslate
 from NLI_Validation import nli_for_corpus
 from Document_Processing import extract_text
 from Summarizer import summarize_text
+import nltk
+nltk.download('punkt')
 import warnings
 warnings.filterwarnings("ignore")
 import tempfile  # for temporary file storage
